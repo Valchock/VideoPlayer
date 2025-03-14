@@ -35,7 +35,9 @@ player.addListener(object : Player.Listener {
 })
 ```
 Features:
+
 PlayList Management
+
 Changing playback position
 
 <img src="screenshots/image_two.jpeg" width = "200">  <img src="screenshots/img_one.jpeg" width = "200"> 
